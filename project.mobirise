@@ -29,7 +29,11 @@
     "versionFirst": "4.6.5",
     "uniqCompNum": 32,
     "versionPublish": "4.6.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "github",
+    "publishPath": "file:///C:/Users/dwigh%20grupp/Documents",
+    "gitHubName": "climbtaylorc",
+    "gitHubPath": ""
   },
   "pages": {
     "index.html": {
@@ -674,7 +678,7 @@
             "showButtons": true,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/website-masthead-photo-2000x12034.jpg",
+            "bgImage": "@PROJECT_PATH@assets/images/website%20masthead%20photo-2000x1203.jpg",
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -737,7 +741,7 @@
           "media1": {
             "image": {
               "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/anto-bodine-300-by-200-300x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/anto%20bodine%20300%20by%20200-300x200.jpg",
               "active": true,
               "link": "",
               "alt": "",
@@ -751,7 +755,7 @@
           "media2": {
             "image": {
               "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/bob-montgomery123456-303x202.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bob%20montgomery123456-303x202.jpg",
               "active": true,
               "link": "",
               "alt": "",
@@ -765,7 +769,7 @@
           "media3": {
             "image": {
               "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/dana-landry-photo1-1500x1001.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dana%20landry%20photo1-1500x1001.jpg",
               "active": true,
               "link": "",
               "alt": "",
@@ -935,7 +939,7 @@
           "media2": {
             "image": {
               "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/ken-walker1-300x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ken%20walker1-300x200.jpg",
               "active": true,
               "link": "",
               "alt": "",
@@ -949,7 +953,7 @@
           "media3": {
             "image": {
               "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/terri-jo-jenkins1-300x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/terri%20jo%20jenkins1-300x200.jpg",
               "active": true,
               "link": "",
               "alt": "",
@@ -996,7 +1000,7 @@
             "showButtons": false,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/depositphotos-153042592-l-2015-2000x20005.jpg",
+            "bgImage": "file:///C:/Users/dwigh%20grupp/AppData/Local/Mobirise.com/Mobirise/projects/project-2018-03-06_111108/assets/images/depositphotos_153042592_l-2015-2000x2000.jpg",
             "bgColorRadio": false,
             "bgColor": "#222222",
             "bgVideoRadio": false,
